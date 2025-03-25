@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  hawtio-online-console-plugin:
+  - apiVersion: v2
+    appVersion: 0.1.0-alpha1
+    created: "2025-03-25T19:12:27.623071966Z"
+    description: A Helm chart for installing the OpenShift Console plugin for HawtIO
+    digest: 951ec6209083b78a12f9cbb4f38414d33f2b7deea67e10cb37977a2bbe67f7f2
+    home: https://hawt.io
+    keywords:
+    - hawtio
+    - camel
+    - console
+    - jmx
+    - react
+    name: hawtio-online-console-plugin
+    sources:
+    - https://github.com/hawtio/hawtio-online-console-plugin.git
+    type: application
+    urls:
+    - https://hawtio.github.io/hawtio-charts/hawtio-online-console-plugin-0.1.0-alpha1.tgz
+    version: 0.1.0-alpha1
+generated: "2025-03-25T19:12:27.622317117Z"
