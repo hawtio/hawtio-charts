@@ -1,5 +1,25 @@
 apiVersion: v1
 entries:
+  hawtio-online:
+  - apiVersion: v2
+    appVersion: 2.2.0
+    created: "2025-04-01T17:46:00.284083063+01:00"
+    description: A Helm chart for installing HawtIO
+    digest: 41665489612da2c76dd2d40751616a5bfd015edefb61ad09a3c7078bc2d11a24
+    home: https://hawt.io
+    keywords:
+    - hawtio
+    - camel
+    - console
+    - jmx
+    - react
+    name: hawtio-online
+    sources:
+    - https://github.com/hawtio/hawtio-online.git
+    type: application
+    urls:
+    - https://hawtio.github.io/hawtio-charts/hawtio-online-1.0.0.tgz
+    version: 1.0.0
   hawtio-online-console-plugin:
   - apiVersion: v2
     appVersion: 0.1.0-alpha1
@@ -20,4 +40,4 @@ entries:
     urls:
     - https://hawtio.github.io/hawtio-charts/hawtio-online-console-plugin-0.1.0-alpha1.tgz
     version: 0.1.0-alpha1
-generated: "2025-03-25T19:12:27.622317117Z"
+generated: "2025-04-01T17:46:00.28331527+01:00"
