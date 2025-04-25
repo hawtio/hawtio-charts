@@ -18,7 +18,7 @@ entries:
     - https://github.com/hawtio/hawtio-online.git
     type: application
     urls:
-    - https://hawtio.github.io/hawtio-charts/hawtio-online-1.0.1-alpha1.tgz
+    - https://hawtio.github.io/hawtio-charts/hawtio-online-2.3.0-alpha1.tgz
     version: 1.0.1-alpha1
   - apiVersion: v2
     appVersion: 2.2.0
@@ -37,7 +37,7 @@ entries:
     - https://github.com/hawtio/hawtio-online.git
     type: application
     urls:
-    - https://hawtio.github.io/hawtio-charts/hawtio-online-1.0.0.tgz
+    - https://hawtio.github.io/hawtio-charts/hawtio-online-2.2.0.tgz
     version: 1.0.0
   hawtio-online-console-plugin:
   - apiVersion: v2
