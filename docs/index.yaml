@@ -21,10 +21,10 @@ entries:
     - https://hawtio.github.io/hawtio-charts/hawtio-online-2.3.0-alpha1.tgz
     version: 1.0.1-alpha1
   - apiVersion: v2
-    appVersion: 2.2.0
-    created: "2025-04-01T17:46:00.284083063+01:00"
+    appVersion: 2.3.0
+    created: "2025-05-08T15:11:29.735699374+01:00"
     description: A Helm chart for installing HawtIO
-    digest: 41665489612da2c76dd2d40751616a5bfd015edefb61ad09a3c7078bc2d11a24
+    digest: 98143da226f60e1a3f7429751fea3b907e554972fd55a4d6afb997b4016b5035
     home: https://hawt.io
     keywords:
     - hawtio
@@ -37,7 +37,7 @@ entries:
     - https://github.com/hawtio/hawtio-online.git
     type: application
     urls:
-    - https://hawtio.github.io/hawtio-charts/hawtio-online-2.2.0.tgz
+    - https://hawtio.github.io/hawtio-charts/hawtio-online-2.3.0.tgz
     version: 1.0.0
   hawtio-online-console-plugin:
   - apiVersion: v2
@@ -78,4 +78,4 @@ entries:
     urls:
     - https://hawtio.github.io/hawtio-charts/hawtio-online-console-plugin-0.1.0-alpha1.tgz
     version: 0.1.0-alpha1
-generated: "2025-04-25T18:14:22.021497886+01:00"
+generated: "2025-05-08T15:11:29.72590629+01:00"
