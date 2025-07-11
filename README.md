@@ -30,7 +30,7 @@ hawtio  https://hawtio.github.io/hawtio-charts
 $ helm search repo hawtio --devel
 
 NAME                                    CHART VERSION   APP VERSION     DESCRIPTION                                       
-hawtio/hawtio-online-console-plugin     0.1.0-alpha1    0.1.0-alpha1    A Helm chart for installing the OpenShift Conso...
+hawtio/hawtio-online-console-plugin     0.4.0-alpha2    0.4.0-alpha2    A Helm chart for installing the OpenShift Conso...
 ```
 
 4. Install the `hawtio-online-console-plugin` using the helm [install](https://helm.sh/docs/helm/helm_install) command: 
@@ -38,8 +38,8 @@ hawtio/hawtio-online-console-plugin     0.1.0-alpha1    0.1.0-alpha1    A Helm c
 $ helm install --devel hawtio-online-console-plugin hawtio/hawtio-online-console-plugin
 
 NAME: hawtio-online-console-plugin
-LAST DEPLOYED: Tue Mar 25 19:57:01 2025
-NAMESPACE: hawtio-dev
+LAST DEPLOYED: Mon Jul  7 11:51:08 2025
+NAMESPACE: hawtio
 STATUS: deployed
 REVISION: 1
 TEST SUITE: None
