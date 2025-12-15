@@ -13,3 +13,5 @@ repositoryID: e7fd53b0-d37b-496e-8aa8-afe83a3187e4
 owners: # (optional, used to claim repository ownership)
   - name: hawtio-team
     email: hawtio@googlegroups.com
+  - name: phantomjinx
+    email: hawtio@googlegroups.com
