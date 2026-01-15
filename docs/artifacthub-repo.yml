@@ -15,3 +15,11 @@ owners: # (optional, used to claim repository ownership)
     email: hawtio@googlegroups.com
   - name: phantomjinx
     email: hawtio@googlegroups.com
+
+ignore:
+  # Ignore alpha versions of hawtio-online-console-plugin
+  - name: hawtio-online-console-plugin
+    version: "(.*-alpha.*|.*-beta.*|.*-dev.*)"
+
+  # Do not publish to artifacthub as only for testing
+  - name: camel-dashboard-console
