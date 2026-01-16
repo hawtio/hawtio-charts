@@ -20,6 +20,8 @@ ignore:
   # Ignore alpha versions of hawtio-online-console-plugin
   - name: hawtio-online-console-plugin
     version: "(.*-alpha.*|.*-beta.*|.*-dev.*)"
+  - name: hawtio-online-console-plugin
+    version: "0.1.0"
 
   # Do not publish to artifacthub as only for testing
   - name: camel-dashboard-console
